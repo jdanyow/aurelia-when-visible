@@ -1,0 +1,12 @@
+{
+  "name": "aurelia-when-visible",
+  "version": "1.0.0",
+  "description": "Aurelia whenVisible binding behavior. Uses IntersectionObserver to defer updating binding targets until they're visible.",
+  "main": "index.js",
+  "repository": "https://github.com/jdanyow/aurelia-when-visible",
+  "author": "jdanyow",
+  "license": "MIT",
+  "dependencies": {
+    "aurelia-templating-resources": "^1.4.0"
+  }
+}
